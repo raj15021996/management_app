@@ -102,6 +102,11 @@ function CovidGraph(): JSX.Element {
     };
     const options = {
         responsive: true,
+        scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
         plugins: {
             legend: {
                 labels: {

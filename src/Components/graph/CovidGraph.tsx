@@ -104,7 +104,8 @@ function CovidGraph(): JSX.Element {
         responsive: true,
         scales: {
         y: {
-          beginAtZero: true
+          beginAtZero: true,
+          min: 0,
         }
       },
         plugins: {

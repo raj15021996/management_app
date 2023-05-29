@@ -106,7 +106,7 @@ function CovidGraph(): JSX.Element {
         y: {
           beginAtZero: true
         }
-      }
+      },
         plugins: {
             legend: {
                 labels: {

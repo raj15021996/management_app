@@ -1,5 +1,5 @@
 import React from 'react';
-import managementImg from '../assets/management.png'
+import managementImg from '../assets/Image/management.png'
 function Navbar() {
     return (
         <div className='h-14 bg-light-gray'>

@@ -1,4 +1,3 @@
-import React from 'react';
 import CovidGraph from './graph/CovidGraph';
 import CovidMap from './Map/CovidMap'
 import '../App.css'

@@ -100,7 +100,7 @@ export default function AddContact({ show, setShow, editData, seteditData, showE
                                         Contact Detail
                                     </h3>
                                     <button
-                                        className="p-1 ml-auto bg-transparent border-0  opacity-5 float-right text-3xl leading-none font-semibold outline-none focus:outline-none"
+                                        className="p-1 ml-auto border-0  float-right text-3xl leading-none font-semibold outline-none focus:outline-none"
                                         onClick={handleClose}
                                     >
                                         <span className="">

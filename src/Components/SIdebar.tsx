@@ -1,8 +1,8 @@
 import React from "react";
 import { useState } from "react";
-import Control from "../assets/control.png";
-import home from "../assets/home.svg";
-import contact from "../assets/contacts.svg";
+import Control from "../assets/Image/control.png";
+import home from "../assets/Image/home.svg";
+import contact from "../assets/Image/contacts.svg";
 import { useNavigate } from "react-router-dom";
 type SidebarProps = {
   open: boolean;
